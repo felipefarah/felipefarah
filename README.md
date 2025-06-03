@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Felipe Farah e eu sou Analista de Teste de Software 👋
 
 - Estou em busca de recolocação no mercado de trabalho com foco em automação de testes
-- Estou estuando automação de API, Mobile e WEB
+- Estou estuando automação de testes de API, Mobile e WEB
 - Como você pode entrar em contato comigo **felipe_farah@outlook.com**
   
 <div>
