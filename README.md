@@ -67,7 +67,7 @@
   <h3 align="left">Ferramentas de Gerenciamento de Projetos:</h3>
   <p align="left">
     <br><a href="https://trello.com" target="_blank" rel="noreferrer">
-      <img width="50" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" hspace="5" vspace="5"/> </a>
+      <img width="50" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> </a>
     <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer">
       <img width="50" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" hspace="5" vspace="5"/> </a>
   </p>
