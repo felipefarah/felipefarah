@@ -75,8 +75,10 @@
 
 <div>
   <h3 align="left">Contatos</h3>
-  <a href = "mailto:felipe_farah@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
-  <a href="https://www.linkedin.com/in/felipe-borges-farah-5a555293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+  <br><a href = "mailto:felipe_farah@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" hspace="5" vspace="5"> </a>
+  <a href="https://www.linkedin.com/in/felipe-borges-farah-5a555293/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" hspace="5" vspace="5"> </a>
 </div>
   
-<img src="https://komarev.com/ghpvc/?username=felipefarah" alt="felipefarah" />
+<img src="https://komarev.com/ghpvc/?username=felipefarah" alt="felipefarah" hspace="5" vspace="5"/>
