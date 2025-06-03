@@ -58,6 +58,8 @@
       <img width="50" alt="Cypress" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" hspace="5" vspace="5"/> </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img width="50" alt="Postman" src="https://www.svgrepo.com/download/354202/postman-icon.svg" hspace="5" vspace="5"/> </a>
+     <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
+      <img width="50" alt="Robot Framework" src="https://images.icon-icons.com/3914/PNG/512/robotframework_logo_icon_248635.png" hspace="5" vspace="5"/> </a>
   </p>
 </div>
 
@@ -74,7 +76,7 @@
 ##
 
 <div>
-  <h3 align="left">Contatos</h3>
+  <h3 align="left">Contatos:</h3>
   <br><a href = "mailto:felipe_farah@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" hspace="5" vspace="5"> </a>
   <a href="https://www.linkedin.com/in/felipe-borges-farah-5a555293/" target="_blank">
