@@ -12,10 +12,10 @@
 
   ##
 
-<div style="display: inline-block'>
+<div>
   <br>
-  <h3 align="left"><b>Linguagens:</b></h3>
-  <p align="left">
+  <h3 align="left">Linguagens:</h3>
+  <p align="left" >
     <br><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blanck" rel="noreferrer"> 
       <img width="50" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" hspace="5" vspace="5" /> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
