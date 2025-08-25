@@ -5,11 +5,11 @@ Acredito na qualidade como um todo: desde testes precisos até prevenção de er
 
 ## 📝 Sobre mim
 
-- 💻 Experiência em Qualidade de Software: Mais de 5 anos atuando em QA, com foco em automação de testes e gestão de projetos para aplicações mobile e web.  
+- 💻 Experiência em Qualidade de Software: Mais de 4 anos atuando em QA, com foco em automação de testes e gestão de projetos para aplicações api, mobile e web.  
 - ⚙️ Automação de Testes: Expertise em Selenium, Appium, Cypress e implementação de frameworks de automação.  
 - 🏢 Grandes Empresas: Homologação de requisitos e compliance com padrões globais em empresas como Samsung e Google.  
 - 📝 Testes Manuais e Automatizados: Condução de testes garantindo qualidade, estabilidade e performance das aplicações.  
-- 👥 Gestão de Equipes: Coordenação de times em ambientes ágis com Scrum e Jira, promovendo produtividade e organização.  
+- 👥 Gestão de Equipes: Liderança de times em ambientes ágeis com Scrum e Jira, promovendo produtividade e organização.  
 - 🎯 Visão Técnica Completa: Formação em Engenharia da Computação, experiência em desenvolvimento Android e automação, garantindo compreensão do ciclo completo de software.  
 - 📈 Otimização de Processos: Desenvolvimento de estratégias de testes, documentação técnica e melhoria contínua de processos de QA.  
 - 🔍 Foco em Qualidade: Identificação e correção de falhas críticas, garantindo melhor experiência do usuário e aplicações mais estáveis.
